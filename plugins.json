@@ -1,0 +1,209 @@
+[{
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Cannon Reloader",
+  "description": "A plugin that will reload your cannon so you don't have to",
+  "id": "lucidcannonreloader-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "3AB5BF125A96D004EEA6B19DD9409DDED8A14A4C2978AFEE4A21B2BE72093FAE1AAB7DE5C1098ACFE36681CEBBBD5454503C12C470B55B19B971422AE7EA8781",
+    "version": "1.0.6",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-cannon-reloader-1.0.6.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Combat",
+  "description": "Helps with Combat related stuff",
+  "id": "lucidcombat-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "7A6B53C230B24E1B91A0C6FD4C56712B841D4EB5E21B0BB87758C17C08AE702D3D6A008A71B294EA5439B06BE8B344504BC4232283AA30F495EDF7C8FBDF3A34",
+    "version": "1.0.10",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-combat-1.0.10.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Custom Prayers",
+  "description": "Set up auto prayers based on various event IDs",
+  "id": "lucidcustomprayers-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "E8E61D52D3E176BAB3505D2B8A1135FFF2E0A5D35DC4585EC6C9329C0BB02FB6CB46268B665EC3386837C2679A0B67E371F32F26E9E80DB0F84F556A23ACA432",
+    "version": "2.1.8",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-custom-prayers-2.1.8.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Disable Rendering",
+  "description": "Disabled rendering graphics on the client while plugin is enabled.",
+  "id": "luciddisablerendering-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "216B9E1F2270625BF239A018D44F0FA4609CC1922F1B829E627C58C5998E291E090450867896E5CA50BB89A7C7E8C63DD08019CB5928CFDDD1345D44AB7F705F",
+    "version": "1.0.1",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-disable-rendering-1.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Discord Logger",
+  "description": "A plugin that sends various messages to a specified Discord webhook URL",
+  "id": "luciddiscordlogger-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "DAD3C84BA4B2F07241AA7C3DF15640F4942E9AE99B7DDF9C03B79E22E1D4F339B55D58A112CAF53405B8F7A7D7BA179F03F4B6761FC90D7FFC10717143E150E4",
+    "version": "1.0.3",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-discord-logger-1.0.3.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Duke Helper",
+  "description": "Auto-prayers and other helper features and overlays for Duke Succ",
+  "id": "luciddukehelper-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "BD51F077A83FD7BFE7A0C3D60D62895BB0D535B6B0DB69B7C4108FDA86DC4C4FF1D47A699D4CD3ED69ADE05C730FC4760625CA31528A0F3E6D3AE2B823A2E7A5",
+    "version": "1.0.0",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-duke-helper-1.0.0.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Example",
+  "description": "An example plugin that can be copied to use as a plugin skeleton. Does nothing functionally.",
+  "id": "lucidexample-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "139CC1E963A378EAC160F8B97C9EA8F8F06C2E2B6957F0DF517315A151E0F9BE322D75740D98D8E1A0362BEBE9A4255CCA57960D2891A6CBBFFE63BC67339D46",
+    "version": "1.0.1",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-example-plugin-1.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Gauntlet",
+  "description": "Gauntlet Extended by xKylee updated with auto-features for Hunllef added in.",
+  "id": "lucidgauntlet-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "A074B335FA6B8C2FEE75B0880AB9E7E33D3521DCB264F7A70911481B9235339D67EA6999651489B3254B171F781583AB09C19793B5EF3F21FF45C49E4F2E4501",
+    "version": "6.2.5",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-gauntlet-6.2.5.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Gear Swapper",
+  "description": "Set-up up an unlimited amount of custom gear swaps with customizable hotkeys or trigger them via weapon equip",
+  "id": "lucidgearswapper-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "94E91E7A6C78BA6C6824390132C78C5DB01E07CD5ED74CF3AA92AFF6E38962E97AB41EB68BCB98D9507E2D17F436D5D21B898C88056A985162AFB0365C9E39CE",
+    "version": "2.2.9",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-gear-swapper-2.2.9.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Hotkeys",
+  "description": "Setup hotkeys that can do a variety of different actions.",
+  "id": "lucidhotkeys-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "B043984BB8D7527F7D7C9A91D0566A6E4B72C8901E88A95BF4C704BC4CB50F67E66D73264B020B2C8A2FD9ACC0863E387D590B011744C47153116D48F28857E7",
+    "version": "1.2.3",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-hotkeys-1.2.3.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Levi Helper",
+  "description": "Auto-prays against leviathan and more",
+  "id": "lucidlevihelper-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "66A7E7054F83BB199967615FD43D1EE2565CC9592B37CA8CEFF751E0086FEB0DBAAD97CF6F0E909360281E8D624955D6712AA72707F792A1A11CB1A0FF8D48F0",
+    "version": "1.0.1",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-levi-helper-1.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Muspah",
+  "description": "Helper plugin for the Phantom Muspah",
+  "id": "lucidmuspah-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "76CFE375EB3A7B2B5F258E4B5C392E7B3F2E912C1A594F7DAC8FECE3717E31B4947F3CB6D4CCB13F508D373CEC1C3C4446483BA1EF9AACFA15EAEDEF212DF37D",
+    "version": "1.0.5",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-muspah-1.0.5.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Scurrius Helper",
+  "description": "Dodges Scurrius' falling ceiling attack and re-attacks",
+  "id": "lucidscurriushelper-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "FBBC15E21C837AFA4C316F858ECFB4DB5243501A3B23F4DE588CFDE72BB822E65FBD8B76101F4D9E35A66E32E69FA788AEC94224DBEE0AC1772CFEB421E9FC03",
+    "version": "1.0.1",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-scurrius-helper-1.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Spices",
+  "description": "A plugin to help you gather spices for stews and not kill your cat in the process",
+  "id": "lucidspices-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "779D75794934487D1A8CC4BD43F580BEDA29787D426405A16D15036A96A9E967CA9FE07C793E807488B817A554EE1B7BD73FAB0E8D044904D93A4B083FD7301F",
+    "version": "1.0.6",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-spices-1.0.6.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid ToB Prayers",
+  "description": "Helps with prayers (and tick-eating sote ball) at ToB",
+  "id": "lucidtobprayers-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "24802B27EF3107B55C391E1B69B508338E2614DD0F69CDE1EC82A59F7D07B9AF19E9BDF6D89BB5BDBAD1C86F1F86284512E4833CA55F516DA40F8455C8330B22",
+    "version": "1.0.0",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-tob-prayers-1.0.0.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/lucid-plugs",
+  "provider": "lucid-plugins",
+  "name": "Lucid Whisperer Helper",
+  "description": "Auto-prays against whisperer and more",
+  "id": "lucidwhispererhelper-plugin",
+  "releases": [{
+    "date": "2024-02-17",
+    "sha512sum": "A364F5B1DD147A87C53BD40B9BBBCF13945FCB597266DB6A81CCC96F87E5BE5108C517A515C2D7EB46DCC0F6C3CA548837ACCA62727418D2ECA2347D8D7FF144",
+    "version": "1.0.3",
+    "url": "https://github.com/lucid-plugins/public-plugins/blob/master/release/lucid-whisperer-helper-1.0.3.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}]
